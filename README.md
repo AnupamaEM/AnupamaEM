@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupamaem&label=Profile%20views&color=0e75b6&style=flat" alt="anupamaem" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anupamaem" alt="anupamaem" /></a> </p>
 
 - 🔭 I’m currently working on [Ecommerce project](https://github.com/AnupamaEM/springboot_ecommerce_project)
 
