@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **FireBase**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AnupamaEM?tab=repositories](https://github.com/AnupamaEM?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repository](https://github.com/AnupamaEM?tab=repositories)
 
 - 💬 Ask me about **SpringBoot**
 
 - 📫 How to reach me **anupamaem0910@gmailcom**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1y3PFlwhYnZVaWmqk9IQBFqrlrzWiAkD9/view?usp=sharing](https://drive.google.com/file/d/1y3PFlwhYnZVaWmqk9IQBFqrlrzWiAkD9/view?usp=sharing)
+- 📄 Know about my experiences [from here](https://drive.google.com/file/d/1y3PFlwhYnZVaWmqk9IQBFqrlrzWiAkD9/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
